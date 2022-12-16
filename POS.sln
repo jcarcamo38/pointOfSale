@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS", "POS\POS.csproj", "{79BF1CC6-492A-4C76-8D23-EBBE85099790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4CD1ADAC-220F-40FE-82F6-5F0614922485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{878DB838-89CA-4499-B874-53F7463E8BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BF1CC6-492A-4C76-8D23-EBBE85099790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BF1CC6-492A-4C76-8D23-EBBE85099790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BF1CC6-492A-4C76-8D23-EBBE85099790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BF1CC6-492A-4C76-8D23-EBBE85099790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD1ADAC-220F-40FE-82F6-5F0614922485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD1ADAC-220F-40FE-82F6-5F0614922485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD1ADAC-220F-40FE-82F6-5F0614922485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD1ADAC-220F-40FE-82F6-5F0614922485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878DB838-89CA-4499-B874-53F7463E8BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878DB838-89CA-4499-B874-53F7463E8BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878DB838-89CA-4499-B874-53F7463E8BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878DB838-89CA-4499-B874-53F7463E8BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EFE3B83-ABB9-41C9-B84D-D8570F393052}
+	EndGlobalSection
+EndGlobal
